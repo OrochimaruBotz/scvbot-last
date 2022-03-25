@@ -60,6 +60,7 @@ pkg install git
 pkg install ffmpeg
 pkg install libwebp 
 pkg install imagemagick
+pkg install imgbb-uploader
 pkg install bash
 git clone https://github.com/clicknetcafe/scvbot-last.git
 cd scvbot-last
